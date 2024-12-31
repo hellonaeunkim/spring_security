@@ -7,6 +7,5 @@ spring:
     basename: i18n/messages
     encoding: UTF-8
     cache-duration: PT1H
-
 server:
-  port: 8080
+  port: 8081
